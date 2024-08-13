@@ -1,0 +1,9 @@
+#! /bin/bash/
+################
+#author = vinod 
+#date = 13/08/2024
+#version = v.1
+
+git add .
+git commit -m "uodte1.0"
+git push origin main
